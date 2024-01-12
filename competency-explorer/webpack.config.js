@@ -26,11 +26,7 @@ module.exports = {
 
       {
         test: /\.s[ac]ss$/i,
-        use: [
-          "style-loader",
-          "css-loader",
-          "sass-loader",
-        ],
+        use: ["style-loader", "css-loader", "sass-loader"],
       },
     ],
   },
@@ -38,14 +34,13 @@ module.exports = {
   resolve: {
     extensions: [".tsx", ".ts", ".js"],
   },
-  
+
   plugins: [],
 
   devServer: {
-    contentBase: [path.join(__dirname, '../'), path.join(__dirname, '../..')],
-    publicPath: '/competency-explorer/dist/',
+    contentBase: [path.join(__dirname, "../"), path.join(__dirname, "../..")],
+    publicPath: "/competency-explorer/dist/",
     compress: true,
-    port: 5000
-  }
-  
+    port: 3333,
+  },
 };

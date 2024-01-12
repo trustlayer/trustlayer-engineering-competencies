@@ -5,17 +5,17 @@ import { MarkdownToMatrix } from 'react-markdown-to-matrix';
 function App() {
 
   return (
-    <MarkdownToMatrix 
-      title='Codecademy Engineering'
+    <MarkdownToMatrix
+      title='TrustLayer Engineering'
       subtitle='Competency Explorer'
-      enabledOptions={['diff', 'filters', 'displayMode']} 
+      enabledOptions={['diff', 'filters', 'displayMode']}
       fileUrls={['README.md', { url: 'managers.md', hideByDefault: true }]}
       excludeHeaders={['FAQ']}
       customTheme={{
         light: '#FFFFFF',
-        lightTheme: '#fff0e5',
-        darkTheme: '#10162f',
-        dark: `#10162f`
+        lightTheme: '#FFFFFF',
+        darkTheme: '#051424',
+        dark: `#051424`
       }}
     />
   );

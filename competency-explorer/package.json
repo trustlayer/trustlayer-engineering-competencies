@@ -1,7 +1,7 @@
 {
   "name": "new-competency-explorer",
   "version": "1.0.0",
-  "description": "explore eng competencies for Codecademy",
+  "description": "explore eng competencies for TrustLayer",
   "main": "index.ts",
   "author": "Kip Price",
   "license": "MIT",

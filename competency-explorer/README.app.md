@@ -1,6 +1,6 @@
 # Competency Explorerer
 
-This is a tool to be able to parse the current set of Codecademy Engineering competencies & to turn them into an explorable github page.
+This is a tool to be able to parse the current set of TrustLayer Engineering competencies & to turn them into an explorable github page.
 
 ## Technical
 

@@ -1,6 +1,6 @@
-# Codecademy Engineering Competencies
+# TrustLayer Engineering Competencies
 
-These are the evaluation criteria we use for performance evaluation and leveling on the Codecademy engineering team. Hooray! The compentencies at each level are broken down into four categories:
+These are the evaluation criteria we use for performance evaluation and leveling on the TrustLayer engineering team. Hooray! The compentencies at each level are broken down into four categories:
 
 1. Software Engineering & Design
 2. Execution & Results
@@ -195,7 +195,7 @@ Jump to competencies for a particular level:
 ### Why these competencies?
 
 We've found that these four competency areas capture much of what's worked well for us.
-The attributes espoused here have been what we've commonly seen help engineers thrive at Codecademy and similar engineering organizations.
+The attributes espoused here have been what we've commonly seen help engineers thrive at TrustLayer and similar engineering organizations.
 
 We believe a team should prosper and grow _as a team_: that its success is measured by both the quality and throughput of its output _and_ the personal growth and enjoyment of its individual members.
 Strong technical achievements are only half of that.
@@ -237,7 +237,3 @@ Establishing a strong performance baseline at your level will further set you up
 
 The further you progress in your career the more time it will take to demonstrate proficiency in specific areas.
 Certain competencies include “established a track record of”. Generally it takes a minimum of 3-4 quarters to be able to repeat a certain set of expectations and demonstrate consistent proficiency.
-
-### Can I see these competencies in a matrix form?
-
-Yes! You can go the [GitHub Page](https://codecademy.github.io/engineering-competencies) to see the interactive matrix view. It pulls from this markdown file so it should always be up to date.
