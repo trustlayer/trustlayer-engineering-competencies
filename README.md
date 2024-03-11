@@ -19,7 +19,7 @@ Jump to competencies for a particular level:
 
 ### Software Engineering & Design
 
-- You write efficient and readable code, you ask for help evaluating pros and cons of various approaches, and your code is easy to maintain.
+- [Writing Code](SED:WC#L1) You write efficient and readable code, you ask for help evaluating pros and cons of various approaches, and your code is easy to maintain.
 - You are learning and applying our standards around design, testing, error handling, monitoring, alerting, and documentation.
 - You proactively maintain, debug, and fix problems in your code.
 - You seek out and learn industry best practices and standards.
